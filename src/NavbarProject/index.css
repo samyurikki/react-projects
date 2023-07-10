@@ -1,0 +1,17 @@
+.nav-toggle {
+  font-size: 30px;
+  color: #307de3;
+  background: "transparent";
+}
+
+.nav-toggle:hover {
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  justify-content: flex-start;
+}
